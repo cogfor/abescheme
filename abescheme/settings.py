@@ -23,7 +23,7 @@ else:
     DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': '/Users/Milo/Documents/Classes/Thesis/abescheme/privacy.db',
+        'NAME': 'privacy.db',
     }
 }
 
